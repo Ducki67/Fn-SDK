@@ -1,3 +1,6 @@
+## This soon will be move to: https://github.com/Helix-Dev-Q/FortniteDumps/tree/main
+This repo will be archived soon!!!!
+
 # Fn-SDK
 My dumped SDKs for fortnite versions
 
